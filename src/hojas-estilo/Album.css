@@ -1,0 +1,53 @@
+.contenedor-album{
+    width: 800px;
+    height: 368px;
+    margin:10px 10px 50px;
+    display: flex;
+    border-radius: 20px;
+    align-items: center;
+
+    background-color: #fff;
+    box-shadow: 0 3px 13px 1px rgb(0 0 0 / 9%);
+}
+
+.imagen-album{
+    height: 100%;
+    width: auto;
+}
+
+.contenedor-texto-album{
+    width: 100%;
+    font-size: 18px;
+    text-align: left;
+    padding: 40px;
+    font-family: Lato,sans-serif;
+    font-weight: 400;
+    line-height: 1.5rem;
+
+}
+
+.nombre-artista{
+
+    font-size:2.5rem;
+    font-weight: bold;
+}
+
+.tipo-artista
+{
+
+    font-size: 1rem;
+    margin-top: 15px;
+    font-style: italic;
+    padding-bottom: 30px;
+}
+
+
+.boton{
+color: white;
+background-color: pink;
+text-align: center;
+margin-top:30px;
+border-radius: 30px;
+margin-right: 260px;
+padding: 5px;
+}
